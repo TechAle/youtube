@@ -1,0 +1,244 @@
+Nome,Cognome,Codice,Classe,Voti,Promosso,Comportamento
+Inga,Adolfo,11981.0,1AIN,[3 8 6 9 3 7 7],1.0,8.0
+Leon,Bardo,11982.0,1AIN,[8 6 7 6 3 8 3],0.0,10.0
+Orso,Elisabetta,11983.0,1AIN,[8 4 8 7 9 5 7],1.0,9.0
+Megan,Guendalina,11984.0,1AIN,[ 4 10  5  7 10  7  4],1.0,10.0
+Pio,Eugenio,11985.0,1AIN,[5 9 6 4 7 9 6],1.0,9.0
+Raimonda,Giuliana,11986.0,1AIN,[6 9 7 9 5 9 5],1.0,9.0
+Tullia,Fara,11987.0,1AIN,[5 6 4 7 3 3 3],0.0,10.0
+Silvia,Gardenia,11988.0,1BEN,[ 9  9  8  6  3 10  4],1.0,8.0
+Simeone,Assunta,11989.0,1BEN,[ 9  6  5  8  4 10  6],1.0,9.0
+Nara,Graziano,11990.0,1BEN,[10  6  9  7  7  3 10],1.0,9.0
+Ada,Doriana,11991.0,1BEN,[10  5  8  8  6  4  8],1.0,10.0
+Maria,Lilith,11992.0,1BEN,[ 6  9 10  4  9  4  7],1.0,8.0
+Alida,Altea,11993.0,1BEN,[ 8  8  6  3  3 10  3],0.0,8.0
+Jessica,Ignazio,11994.0,1BEN,[ 8  6 10 10  7  7  9],1.0,10.0
+Leonida,Aimeè,11995.0,1BEN,[ 8 10  9  7  8  8  5],1.0,7.0
+Ignazio,Ermes,11996.0,1BEN,[ 9 10  9  8  5  9  4],1.0,10.0
+Tia,Egidio,11997.0,1BEN,[ 7  4 10  8  3  4  6],1.0,10.0
+Lancelot,Edgardo,11998.0,1CEN,[4 4 4 5 6 4 5],0.0,7.0
+Satinka,Bruna,11999.0,1CEN,[ 8  8  3  5  4  9 10],1.0,9.0
+Altair,Jael,12000.0,1CEN,[ 5  6 10  6  3  4 10],1.0,10.0
+Anastasia,Ebe,12001.0,1CEN,[10  8  6  9  5  8  7],1.0,10.0
+Cedric,Bjorn,12002.0,1CEN,[ 5  7  4  7 10  3  6],1.0,7.0
+Cesara,Vida,12003.0,1CEN,[7 5 3 5 8 9 3],0.0,8.0
+Leonida,Madonna,12004.0,1CEN,[9 9 6 6 9 8 7],1.0,9.0
+Era,Filomena,12005.0,1CEN,[ 3  6  9  5  7  8 10],1.0,8.0
+Ford,Rowena,12006.0,1DIN,[4 7 8 6 9 4 9],1.0,10.0
+Enrica,Letizia,12007.0,1DIN,[ 9  9  6  9 10  4  5],1.0,9.0
+Dina,Medea,12008.0,1DIN,[ 3  4  3 10  8  8  8],1.0,10.0
+Evania,Melvin,12009.0,1DIN,[ 5  6  9  9 10  3  6],1.0,9.0
+Malvina,Marilyn,12010.0,1DIN,[4 6 6 9 8 3 7],1.0,7.0
+Gustavo,Elettra,12011.0,1DIN,[6 9 7 4 4 9 6],1.0,8.0
+Silvia,Maude,12012.0,1DIN,[7 4 5 8 5 3 9],0.0,9.0
+Urania,Primula,12013.0,1EEN,[9 4 3 8 7 3 9],1.0,8.0
+Fiorella,Rohana,12014.0,1EEN,[ 6 10  3  7  3  5  7],0.0,8.0
+Manfredo,Ciro,12015.0,1EEN,[8 8 6 9 8 7 7],1.0,8.0
+Romilda,Salvatore,12016.0,1EEN,[4 9 4 8 7 8 5],1.0,7.0
+Melia,Polissena,12017.0,1EEN,[10  9  9  7  8  5  4],1.0,8.0
+Celesta,Mildred,12018.0,1EEN,[10  9  6  9  3  3  6],1.0,10.0
+Mirina,Xenia,12019.0,1EEN,[ 4  5 10  5  3  8  7],1.0,8.0
+Edda,Xantha,12020.0,1EEN,[9 3 9 4 9 3 9],1.0,8.0
+Elia,Emiliana,12021.0,1FEN,[ 8  8 10  9  5  5  9],1.0,9.0
+Zelia,Annika,12022.0,1FEN,[8 6 8 3 3 9 6],1.0,9.0
+Lidia,Vincenzo,12023.0,1FEN,[4 8 5 3 9 6 6],0.0,10.0
+Genoveffa,Aquilante,12024.0,1FEN,[ 9  5  8  5 10  7  5],1.0,10.0
+Ivan,Rosalia,12025.0,1FEN,[ 9  5 10  9  3  9  8],1.0,8.0
+Adriana,Attilio,12026.0,1FEN,[ 6  8  6  6 10  7  9],1.0,7.0
+Marilena,Costantino,12027.0,1FEN,[9 5 5 5 8 9 6],1.0,8.0
+Velania,Egle,12028.0,1FEN,[ 8  9  7 10  5  8  5],1.0,10.0
+Ymir,Igea,12029.0,1FEN,[5 6 7 4 4 8 4],0.0,9.0
+Euridice,Ford,12030.0,1GIN,[ 7  9  7 10  6  8  9],1.0,10.0
+Fabio,Zuleika,12031.0,1GIN,[3 4 3 5 7 7 6],0.0,9.0
+Milva,Ornella,12032.0,1GIN,[10  9  9  6  4  9  5],1.0,8.0
+Duilio,Galeazzo,12033.0,1GIN,[10  4  6 10  5  7  3],1.0,7.0
+Otto,Oreste,12034.0,1GIN,[ 7  7  5  9  6 10  5],1.0,9.0
+Leslie,Edda,12035.0,1GIN,[6 4 3 6 5 9 7],0.0,8.0
+Talia,Anastasia,12036.0,1GIN,[9 8 8 5 3 7 7],1.0,9.0
+Anselmo,Folco,12037.0,1GIN,[4 9 9 6 8 9 4],1.0,7.0
+Rowena,Aura,12038.0,1GIN,[6 7 8 3 6 8 3],0.0,8.0
+Edelweiss,Ugo,12039.0,1GIN,[10  3  6  6  5  4  6],0.0,8.0
+Ortensia,Romolo,12040.0,1HIN,[4 6 8 5 9 4 3],0.0,10.0
+Mercedes,Melania,12041.0,1HIN,[ 5  9  3  6  4 10  7],1.0,7.0
+Liala,Luna,12042.0,1HIN,[10  3  3  6  4  3  8],0.0,8.0
+Ancilla,Costantino,12043.0,1HIN,[9 5 7 4 6 4 9],1.0,7.0
+Cecilia,Camillo,12044.0,1HIN,[ 5  4 10 10  9  9  8],1.0,9.0
+Olisa,Eco,12045.0,1HIN,[ 8 10  5  4  3  8  8],1.0,8.0
+Beatrice,Bianca,12046.0,1HIN,[10 10  8  8  9  9  4],1.0,9.0
+Mario,Natalia,12047.0,1HIN,[10  7  3  8  7  3  7],1.0,8.0
+Rachele,Camelia,12048.0,1HIN,[ 4  9  7 10  4  8  5],1.0,9.0
+Werner,Margherita,12049.0,1IIN,[7 7 4 7 9 5 4],1.0,9.0
+Paralda,Wala,12050.0,1IIN,[9 8 8 8 3 3 7],1.0,7.0
+Ludovico,Tiffany,12051.0,1IIN,[4 6 6 6 6 4 7],0.0,8.0
+Kamar,Moanna,12052.0,1IIN,[ 5  5  7  6  9 10  7],1.0,8.0
+Onella,Santino,12053.0,1IIN,[9 7 5 5 9 9 8],1.0,10.0
+Floriano,Egle,12054.0,1IIN,[ 3  5  5  7 10  6 10],1.0,7.0
+Alberto,Izusa,12055.0,1IIN,[10  3  9  3  6  9  7],1.0,8.0
+Vittore,Sebastiano,12056.0,1IIN,[ 5 10 10  3  9 10  5],1.0,8.0
+Vassjli,Morgana,12057.0,1JIN,[4 7 5 7 9 3 4],0.0,9.0
+Dolcina,Perceval,12058.0,1JIN,[ 5  8  3  8 10  7  3],1.0,10.0
+Lora,Fiorenzo,12059.0,1JIN,[7 9 4 3 5 6 3],0.0,8.0
+Adelaide,Samantha,12060.0,1JIN,[ 8  5  7 10 10  6  7],1.0,8.0
+Marilena,Candida,12061.0,1JIN,[7 7 9 6 7 6 8],1.0,10.0
+Mario,Romolo,12062.0,1JIN,[10  9  5 10  8  4  9],1.0,10.0
+Sem,Drago,12063.0,1JIN,[4 8 4 8 7 3 3],0.0,7.0
+Thelma,Andrea,12064.0,1JIN,[5 4 3 7 6 8 4],0.0,9.0
+Alhena,Mafalda,12065.0,1JIN,[ 3  7 10  8  7  7 10],1.0,7.0
+Orio,Enki,12066.0,1JIN,[6 4 9 9 4 9 5],1.0,8.0
+Giacomo,Celeste,12067.0,1KEN,[8 8 6 5 3 9 7],1.0,9.0
+Guicciardo,Ambrogio,12068.0,1KEN,[6 9 5 5 7 4 3],0.0,9.0
+Bibiana,Barbara,12069.0,1KEN,[10  4  5  7 10  9  5],1.0,7.0
+Vito,Uriel,12070.0,1KEN,[10  4  5  9  4  6  5],1.0,10.0
+Ignazio,Alan,12071.0,1KEN,[ 8  6 10  3  8 10  8],1.0,10.0
+Donato,Ludmilla,12072.0,1KEN,[5 3 4 3 8 3 6],0.0,9.0
+Melania,Alfredo,12073.0,1KEN,[ 5  9  6 10  4  8  9],1.0,10.0
+Donata,Elfo,12074.0,1KEN,[8 6 8 6 3 3 6],0.0,10.0
+Sebastiano,Ivana,12075.0,2AEN,[ 3  5  5  7  5  6 10],0.0,8.0
+Athos,Zuleika,12076.0,2AEN,[9 9 9 9 6 7 3],1.0,7.0
+Nem,Moanna,12077.0,2AEN,[ 3  9  4 10  3  6  3],0.0,7.0
+Kendra,Ferruccio,12078.0,2AEN,[6 6 7 3 4 4 8],0.0,8.0
+Lia,Carina,12079.0,2AEN,[7 7 9 6 7 8 7],1.0,8.0
+Alfonso,Frida,12080.0,2AEN,[10  6  3  4 10  9 10],1.0,9.0
+Massimo,Jader,12081.0,2AEN,[4 8 9 7 3 9 4],1.0,10.0
+Domenica,Valeria,12082.0,2AEN,[ 6  7  7 10  8  6  3],1.0,8.0
+Verilla,Delia,12083.0,2AEN,[7 7 7 4 9 8 5],1.0,7.0
+Delfino,Gaspare,12084.0,2AEN,[ 9  5  5  4  5 10  8],1.0,10.0
+Edith,Alida,12085.0,2BEN,[3 7 9 8 5 9 8],1.0,9.0
+Giuliana,Fiorenza,12086.0,2BEN,[ 7  6  5  9  5  9 10],1.0,9.0
+Dino,Emma,12087.0,2BEN,[ 5 10  3  5  3  8 10],1.0,8.0
+Adriele,Nadia,12088.0,2BEN,[9 6 8 9 7 5 9],1.0,10.0
+Martina,Fausto,12089.0,2BEN,[ 8  8  7 10  8  3  7],1.0,9.0
+Tea,Piera,12090.0,2BEN,[6 4 9 3 7 4 5],0.0,8.0
+Faith,Luciana,12091.0,2BEN,[ 5  8  4  6 10  5  5],1.0,8.0
+Carolina,Aramis,12092.0,2CEN,[10  3  8  3  4  4  9],0.0,9.0
+Luce,Yasu,12093.0,2CEN,[4 8 7 9 7 3 3],0.0,9.0
+Kamar,Owen,12094.0,2CEN,[ 8  3  3  3 10  4  5],0.0,10.0
+Titania,Livia,12095.0,2CEN,[ 5 10  5  7  4  7 10],1.0,7.0
+Consolata,Battista,12096.0,2CEN,[10  9  4  6  6  3  8],1.0,9.0
+Umberto,Doriana,12097.0,2CEN,[ 4  6 10  3  5  3  8],0.0,7.0
+Shaina,Giotto,12098.0,2DEN,[7 7 5 3 8 7 8],1.0,9.0
+Dela,Irvin,12099.0,2DEN,[7 6 6 5 3 6 4],0.0,10.0
+Gennaro,Carina,12100.0,2DEN,[ 4  8 10  9  9 10  6],1.0,9.0
+Marilyn,Norma,12101.0,2DEN,[5 8 5 6 9 7 4],1.0,10.0
+Arturo,Novella,12102.0,2DEN,[8 6 4 8 9 8 6],1.0,8.0
+Leonardo,Quintiliano,12103.0,2DEN,[8 3 4 9 5 3 4],0.0,8.0
+Egidio,Ninfa,12104.0,2EEN,[ 7  6  6 10  7 10  3],1.0,7.0
+Fiorenza,Fernanda,12105.0,2EEN,[10  6  3 10  3  6  5],1.0,7.0
+Quintiliano,Edera,12106.0,2EEN,[ 5  3  5  9 10  6 10],1.0,8.0
+Primo,Aurora,12107.0,2EEN,[ 9  6  7  5  8  5 10],1.0,9.0
+Milo,Vittorio,12108.0,2EEN,[9 8 4 6 3 3 7],0.0,10.0
+Vega,Ilaria,12109.0,2FIN,[ 6  5  5  5 10  5  8],1.0,8.0
+Bruno,Rossella,12110.0,2FIN,[ 3  7  7  8 10  5  9],1.0,10.0
+Paola,Scott,12111.0,2FIN,[3 5 7 7 9 5 7],1.0,10.0
+Enza,Vito,12112.0,2FIN,[ 9  7 10  9  8  8  6],1.0,10.0
+Delia,Carla,12113.0,2FIN,[6 3 6 4 4 4 6],0.0,9.0
+Malcom,Dylan,12114.0,2FIN,[ 8  7 10  4  8  6  9],1.0,7.0
+Fernando,Albano,12115.0,2GIN,[7 4 5 9 6 3 7],0.0,10.0
+Flora,Gunnar,12116.0,2GIN,[4 5 8 6 3 8 3],0.0,9.0
+Edelweiss,Sivio,12117.0,2GIN,[5 3 3 5 7 3 7],0.0,7.0
+Wilson,Erminio,12118.0,2GIN,[9 7 3 8 4 6 9],1.0,10.0
+Cameron,Solange,12119.0,2GIN,[ 8 10  6  8  5  9  9],1.0,10.0
+Graham,Agave,12120.0,2GIN,[5 6 3 4 9 5 5],0.0,10.0
+Romano,Guerrino,12121.0,2GIN,[8 5 3 9 4 5 9],1.0,7.0
+Sigfrido,Roberto,12122.0,2GIN,[5 7 8 5 8 6 8],1.0,7.0
+Cristal,Maurizia,12123.0,2GIN,[7 6 9 8 8 8 6],1.0,8.0
+Mandisa,Frine,12124.0,2GIN,[5 6 4 4 3 8 4],0.0,7.0
+Cristiano,Balthazar,12125.0,2HIN,[5 3 7 8 6 4 8],0.0,10.0
+Oliviero,Luciano,12126.0,2HIN,[ 8 10  6  6 10 10  5],1.0,8.0
+Marco,Afra,12127.0,2HIN,[ 3  7  9  3  3  7 10],1.0,7.0
+Annika,Selvaggia,12128.0,2HIN,[ 3 10  5  8  6  8 10],1.0,7.0
+Beryl,Sharar,12129.0,2HIN,[6 6 6 4 9 7 6],1.0,10.0
+Marlon,Chiara,12130.0,2HIN,[5 8 4 3 5 6 7],0.0,8.0
+Nara,Angelo,12131.0,2HIN,[8 4 9 3 3 6 9],1.0,8.0
+Tiffany,Ermes,12132.0,2IEN,[ 3 10  3  9  6  4  7],1.0,9.0
+Verena,Francesca,12133.0,2IEN,[3 6 6 6 5 4 9],0.0,7.0
+Verilla,Melba,12134.0,2IEN,[ 4  3 10  5  3  9  9],1.0,7.0
+Livio,Ulla,12135.0,2IEN,[4 5 4 9 7 6 6],0.0,8.0
+Tamara,Duilio,12136.0,2IEN,[ 6 10  3  3  7  7  7],1.0,9.0
+Ladislao,Maurizia,12137.0,2IEN,[5 6 8 5 3 9 8],1.0,9.0
+Lothar,Megan,12138.0,2IEN,[6 3 4 4 3 4 3],0.0,7.0
+Bartolomeo,Siro,12139.0,2IEN,[ 7  6  8  7  8  8 10],1.0,10.0
+Selvaggia,Marcella,12140.0,2IEN,[ 9  7  3  8  4 10  8],1.0,8.0
+Paolo,Malik,12141.0,2IEN,[7 9 9 6 9 3 5],1.0,8.0
+Valentina,Quincy,12142.0,3AEN,[5 4 3 7 3 3 8],0.0,8.0
+Mainard,Cecilia,12143.0,3AEN,[ 7  8 10  5  8  7  6],1.0,9.0
+Diego,Romilda,12144.0,3AEN,[ 7  5  6 10  8  7 10],1.0,9.0
+Enea,Sakura,12145.0,3AEN,[ 9  4  6  3  8 10  3],1.0,8.0
+Tiziana,Sem,12146.0,3AEN,[10  6  5  5  8  4  5],1.0,7.0
+Tyron,Medardo,12147.0,3AEN,[ 5  5  7  3 10 10  5],1.0,7.0
+Fabiana,Azalea,12148.0,3AEN,[ 5 10  8  3  3 10  6],1.0,10.0
+Werther,Stella,12149.0,3BEN,[4 6 3 3 6 4 3],0.0,8.0
+Angelica,Isabella,12150.0,3BEN,[3 3 6 6 5 9 8],0.0,9.0
+Gemma,Fiore,12151.0,3BEN,[9 7 4 8 8 7 5],1.0,9.0
+Werther,Baldovino,12152.0,3BEN,[4 8 9 5 8 8 4],1.0,7.0
+Paralda,Elvis,12153.0,3BEN,[7 7 8 6 3 6 3],0.0,10.0
+Aleramo,Federico,12154.0,3BEN,[7 5 3 8 6 4 7],0.0,8.0
+Melinda,Mattia,12155.0,3BEN,[ 7  7  8  3  5 10  4],1.0,10.0
+Ivano,Danae,12156.0,3BEN,[9 8 8 9 7 4 4],1.0,8.0
+Ilva,Sigmund,12157.0,3BEN,[5 9 6 6 5 3 6],0.0,9.0
+Olimpia,Melba,12158.0,3BEN,[ 5  8  3  9  7 10  6],1.0,9.0
+Moreno,Nella,12159.0,3CIN,[9 7 8 4 3 9 9],1.0,10.0
+Neda,Romano,12160.0,3CIN,[ 6  5 10  5  3 10  5],1.0,10.0
+Viviana,Susanna,12161.0,3CIN,[ 5 10  8  6 10 10  9],1.0,9.0
+Porthos,Dagon,12162.0,3CIN,[5 3 9 5 8 8 6],1.0,10.0
+Fabrizio,Olaf,12163.0,3CIN,[ 9  8  8  5  6  5 10],1.0,10.0
+Adriele,Diamante,12164.0,3CIN,[5 8 3 6 5 4 8],0.0,9.0
+Norberto,Camelia,12165.0,3DEN,[ 7  4  9  5  5 10  7],1.0,10.0
+Sadir,Sheila,12166.0,3DEN,[ 7 10 10  3  5  6  9],1.0,7.0
+Zelia,Yasu,12167.0,3DEN,[10  3 10  3  8  9  8],1.0,8.0
+Mainard,Umberto,12168.0,3DEN,[ 5  3 10  7  7  3  5],0.0,8.0
+Eletta,Dora,12169.0,3DEN,[ 7 10  6  5 10  8  9],1.0,9.0
+Igea,Bernardo,12170.0,3DEN,[6 6 9 7 5 3 9],1.0,8.0
+Ferruccio,Rachele,12171.0,3DEN,[9 9 8 6 8 5 3],1.0,10.0
+Tara,Wolfgang,12172.0,3EIN,[8 4 8 6 6 4 4],0.0,10.0
+Alberta,Federica,12173.0,3EIN,[4 6 7 5 3 9 9],1.0,7.0
+Savino,Clio,12174.0,3EIN,[6 5 8 7 8 6 7],1.0,8.0
+Giacomo,Stanislao,12175.0,3EIN,[7 7 3 9 4 8 6],1.0,8.0
+Jader,Lorena,12176.0,3EIN,[5 7 4 4 5 7 5],0.0,9.0
+Franco,Angelica,12177.0,3FIN,[ 5  3  5  6  4  6 10],0.0,9.0
+Elvio,Tiziano,12178.0,3FIN,[ 9  8  4  6 10 10  7],1.0,7.0
+Vittoria,Yuri,12179.0,3FIN,[3 3 3 5 7 8 6],0.0,10.0
+Luana,Alessia,12180.0,3FIN,[ 5  3  3  4 10 10  6],0.0,7.0
+Armida,Chiara,12181.0,3FIN,[ 6  9  6  5  4  4 10],1.0,8.0
+Alida,Altea,12182.0,3FIN,[ 8  4  4 10  3  9  8],1.0,7.0
+Rolf,Roswita,12183.0,3FIN,[ 8  8  8  3  7  5 10],1.0,9.0
+Paolo,Aleramo,12184.0,3FIN,[ 6 10  7  5  5  7  8],1.0,8.0
+Aretha,Vissia,12185.0,3FIN,[8 6 3 8 7 6 5],1.0,7.0
+Irene,Ester,12186.0,3FIN,[ 9 10  6  3  8  6  5],1.0,10.0
+Lanfranco,Sennen,12187.0,4AEN,[ 5  4  6  4  4  9 10],1.0,7.0
+Lavinia,Daniela,12188.0,4AEN,[4 4 4 9 6 5 5],0.0,9.0
+Cora,Leon,12189.0,4AEN,[10  4  9 10  3  8 10],1.0,9.0
+Waldo,Agnese,12190.0,4AEN,[10  8  9  6 10  5  9],1.0,7.0
+Gareth,Melania,12191.0,4AEN,[ 9 10  3  5 10  9  8],1.0,9.0
+Salomè,Zaira,12192.0,4AEN,[6 9 6 6 5 5 9],1.0,10.0
+Cornelia,Margherita,12193.0,4BEN,[6 3 9 3 6 4 6],0.0,7.0
+Tara,Griselda,12194.0,4BEN,[ 6  3  6 10  6  7  6],1.0,10.0
+Sheila,Amina,12195.0,4BEN,[8 8 4 3 7 8 8],1.0,8.0
+Tessa,Alfredo,12196.0,4BEN,[ 7  6  6  4  6 10  6],1.0,8.0
+Attilio,Carlo,12197.0,4BEN,[ 6  3 10  8  5  3  8],1.0,10.0
+Uriel,Giuditta,12198.0,4BEN,[7 3 6 5 9 8 7],1.0,9.0
+Paloma,Oriana,12199.0,4BEN,[8 5 5 6 7 4 5],0.0,9.0
+Patrizia,Mizar,12200.0,4BEN,[ 3 10  4  9  4  9 10],1.0,9.0
+Rocco,Irene,12201.0,4BEN,[6 7 6 4 8 7 8],1.0,7.0
+Guendalina,Shada,12202.0,4CEN,[ 9  3  4  5  5 10  7],1.0,10.0
+Tea,Gisella,12203.0,4CEN,[10  7  9  3  9  4  6],1.0,9.0
+Petunia,Giovanni,12204.0,4CEN,[ 5  5  6  8 10  3  5],1.0,10.0
+Celeste,Wilson,12205.0,4CEN,[ 8  9  8  6  4 10  5],1.0,9.0
+Virginia,Jonathan,12206.0,4CEN,[6 4 4 8 3 8 6],0.0,9.0
+Meredith,Loreley,12207.0,4CEN,[3 3 3 9 7 4 5],0.0,8.0
+Enrica,Joel,12208.0,4CEN,[3 8 9 3 5 5 5],0.0,10.0
+Matteo,Ghino,12209.0,5AIN,[7 5 3 9 3 4 9],0.0,8.0
+Cordelia,Lamberto,12210.0,5AIN,[9 6 3 7 4 9 4],1.0,10.0
+Guido,Videmar,12211.0,5AIN,[ 9  5 10  4  9  9  8],1.0,7.0
+Vincenzo,Alfio,12212.0,5AIN,[ 8 10  3  4  5  8  9],1.0,7.0
+Rodolfo,Aristide,12213.0,5AIN,[ 6  8  7  6 10  8  6],1.0,9.0
+Tyler,Gelsomina,12214.0,5AIN,[ 7  7 10  6  3  8  9],1.0,9.0
+Era,Alessia,12215.0,5AIN,[8 9 4 3 7 7 3],0.0,9.0
+Gaetano,Nuriel,12216.0,5AIN,[ 4  6  4  6  6 10  4],0.0,7.0
+Mirra,Umberta,12217.0,5AIN,[10  7  7  3  7  8 10],1.0,7.0
+Azzurra,Kirk,12218.0,5BIN,[5 6 4 9 4 8 6],1.0,10.0
+Jin,Sem,12219.0,5BIN,[4 4 5 4 8 6 8],0.0,7.0
+Graziano,Carmelo,12220.0,5BIN,[10  5  8  8  9  3  9],1.0,8.0
+Shaula,Verena,12221.0,5BIN,[ 3 10  9  3  4  6 10],1.0,9.0
+Jamil,Camilla,12222.0,5BIN,[ 4  5  9  4  4  3 10],0.0,8.0
+Filippo,Idalia,12223.0,5BIN,[ 5  6  3  8 10  3  5],0.0,8.0
