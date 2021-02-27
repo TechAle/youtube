@@ -1,4 +1,4 @@
-# Comandi Tutorial
+# Comandi Git
 ## 1) Configurazione
 git config mergetool.smerge.cmd 'smerge mergetool "$BASE" "$LOCAL" "$REMOTE" -o "$MERGED"'\
 git config mergetool.smerge.trustExitCode true\
@@ -24,7 +24,7 @@ git pull primo master\
 git remote add main https://github.com/TutorialGitTechAle/mainTutorial.git\
 git remote update\
 git pull server master (errore) git reset --hard server/master\
-git remote add update https://github.com/TutorialGitTechAle\/mainTutorial.git\
+git remote add update https://github.com/TutorialGitTechAle/mainTutorial.git\
 git fetch update\
 git remote -v\
 git pull update master (readme.md)\
@@ -60,3 +60,8 @@ git stash --list\
 git stash apply [nome]@{0} \
 git stash drop [nome]@{0}
 
+## 7) Alterazioni
+git mv\
+git add ( .  -a   -u --no-all )\
+git clean -df\
+git show
